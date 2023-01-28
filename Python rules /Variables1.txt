@@ -1,0 +1,11 @@
+Naming Variables 
+1.  Variable names cannot have spaces. If you want to use two words in a variable, pet an underscore between them.
+	ie: my_variable = “selftaught”
+
+2. Varuable names can only contain: 
+	a). Letters.
+	b). Numbers.
+	c). Underscore symbol. 
+
+3. You cannot start a variable name with a Number. Although you can start a variable name with an 
+Underscore, it nas a special meaning that Will be covered later, so avoid doing that until then. 

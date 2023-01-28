@@ -1,0 +1,13 @@
+Data Types
+1 —>  
+	1 = integer
+2—>  
+	“Hello, World!”= string 
+3—>  
+	15.4 = float
+4—>  
+	True = boolean
+5—>  
+	False = boolean
+6—>  
+	None = nonetype

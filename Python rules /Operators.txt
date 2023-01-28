@@ -1,0 +1,32 @@
+Operators: 
+1). 	Arithmetic operators
+
+2).	Comparison operados 
+
+3).	Logical operators
+
+Expression: 
+A Line of Code that Python reduções to a Single value. 
+An expression is made of: 
+Operands and Operators
+8 * 2
+* is the operator
+8 and 2 are operando
+
+Operators 
+1). Exponent = **
+
+2). Module = %
+
+3). Integer division = //
+
+4). Division = / 
+
+5). Multiplication = *
+
+6). Addition = + 
+
+7). Addition = +
+
+8). Substraction = -
+
