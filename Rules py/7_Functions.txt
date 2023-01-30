@@ -1,0 +1,83 @@
+Fuctions
+Compound statements that can take input,
+execute instructions and return output with 
+functions you can define and reuse functionality 
+in your programs.
+
+Algebra
+f(x) = x*2
+x is a parameter
+a function can have:  
+1). f() No parameter
+
+2). f(x) 1 parameter
+
+3). f(x, y, z) multiple parameters
+
+TO use a function you have to call it, and passing 
+the function a parameter; by typing a number so 
+that we can see how the function behaves. 
+
+Algebraic function written in Python
+def f(x):
+    return x*2  (definition is just 1 line, in this example)
+
+check this out 
+def f(x):
+    return x*2
+x = f(3)
+print(x)
+>>> 6
+
+so the structure is like this
+// chill example, No parameter
+def f():
+    return 1 + 1 
+result = f()
+print(result)
+
+
+// multiple parameter example 
+def f(x, y, z):
+    return x, y, z
+result = f(1, 2, 3)
+print(result)
+
+//no parameter
+def f()
+    z = 1 + 1
+
+result = f()
+print(result)
+>>> none
+
+Calling your funcion 
+def even_odd(n)
+    if n % 2 == 0:
+        print('n is even.')
+    else: 
+        print('n is odd.')
+
+even_odd(10)
+even_odd(11)
+even_odd(12)
+
+Functions can accept
+1). Optional Prameters 
+---> def    f(x = 2):
+        return x ** x
+    f(4)
+>>> 256
+
+---> f()
+>>> 4
+
+2). Required Parameters (the ones we have been studying)
+
+
+When you write a function, you should include a comment 
+called a dark string at the top of the function,
+explaining what data type each parameter needs to be.
+Doc String's help you program faster because you won't 
+have to read through all of the code and a function
+to remember what it does.

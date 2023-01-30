@@ -32,3 +32,24 @@ if(expression) then:
     code_area_1
 else: 
     code_area_2
+
+You can put mutliple conditional Statements 
+in one program. 
+
+Nesting 
+d = 10 
+e = 11
+if d == 10: 
+    if e == 11: 
+        print('d is 10 and e is 11')
+
+2 types of Statements in PYthon 
+1). Simple Statements
+    print('A simple statment.')
+
+2). Compound Statements
+    if y % 2 != 0:
+        print('y is even.')
+    else:
+    print('y is odd.')
+else if statments are an example of compound Statements.

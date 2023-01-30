@@ -44,7 +44,7 @@ if c % 2 != 0:
 else:
     print('c is odd')
 
-# 7 
+# 7 NESTING
 d = 10 
 e = 11
 if d == 10: 
