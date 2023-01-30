@@ -1,0 +1,34 @@
+Statements
+Describes various parts of the Python language. 
+Command or Calculation. 
+
+Conditional Statements
+block1
+    block2
+        block3
+        block4
+    block5 
+block6 
+
+So we got
+
+Arithmetic
++   -   *   /   %   //  **
+
+Comparison 
+==  !=  >   <   >=  <=
+
+Logical
+and or  not
+
+Conditional Statements 
+if this;
+    do('that')
+otherwise: 
+    do('something else')
+
+Statements in pseudocode
+if(expression) then: 
+    code_area_1
+else: 
+    code_area_2

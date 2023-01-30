@@ -1,5 +1,5 @@
 Operators: 
-1). 	Arithmetic operators
+1). 
 
 2).	Comparison operados 
 
@@ -30,3 +30,30 @@ Operators
 
 8). Substraction = -
 
+Division
+10 / 3 = 3 r 1
+the 3 is a Quotient and the 1 a Remainder, the left over.
+
+Remainder ---> %
+So, 10 % 3 = 1.
+
+Quotient ---> //
+13//5 = 2 
+cause 5 is 2 times inside of 15. 
+
+Order of Operators 
+Please
+Excuse
+My
+Dear 
+Aunt
+Sally 
+
+1). P-Parentheses
+2). E-Exponents
+3). M-Multiplication
+4). D-Division
+5). A-Addition
+6). S-Substraction
+
+P E  M D  A S
