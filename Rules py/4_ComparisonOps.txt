@@ -1,0 +1,11 @@
+Comparison Operators
+True or False 
+
+in PYthon have 6 conditions
+1). >   greater than
+2). <   less than
+3). >=  greater than || equal to
+4). <=  less than || equal to
+5). ==  equal
+6). !=  not equal
+
