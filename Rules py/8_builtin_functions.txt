@@ -1,0 +1,9 @@
+# Built-IN Functions
+
+# 1. print() = prints 
+print("Hello world")
+
+# 2. len() = returns the length of an object
+    len("Monty")
+    len('Cocacola')
+
